@@ -98,13 +98,13 @@ const NavHed = () => {
                 </a>
               </Link>
             </li>
-            <li className="nav-item">
+            {/* <li className="nav-item">
               <Link href={`/user/${collection.userName}`}>
                 <a className="nav-link" href="#">
                   <img src="/images/cart.png" alt="" />
                 </a>
               </Link>
-            </li>
+            </li> */}
           </ul>
 
           <button
@@ -226,7 +226,7 @@ const NavHed = () => {
               </li>
 
               {/* resource */}
-              <li className=" nav-item  group relative">
+              {/* <li className=" nav-item  group relative">
                 <button className="flex items-center justify-between py-3.5 font-size=[18px] hover:text-[#d831b3] focus:text-[#d831b3]    dark:text-white lg:px-5 w-full">
                   <span
                     className={
@@ -268,7 +268,7 @@ const NavHed = () => {
                     </li>
                   ))}
                 </ul>
-              </li>
+              </li> */}
               <li className=" nav-item  group relative xl:hidden">
                 <ConnectWallet />
               </li>
