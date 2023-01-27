@@ -98,7 +98,7 @@ const foot = () => {
                 <p>&copy; 2023 Artlux Inc.</p>
               </div>
             </div>
-            <div className="col-md-6 text-end">
+            {/* <div className="col-md-6 text-end">
               <div className="terms">
                 <ul>
                   <li>
@@ -109,7 +109,7 @@ const foot = () => {
                   </li>
                 </ul>
               </div>
-            </div>
+            </div> */}
           </div>
         </div>
       </div>

@@ -92,7 +92,7 @@ const footer = () => {
               </Link>
             </span>
 
-            <ul className="dark:text-jacarta-400 flex flex-wrap space-x-4 text-sm">
+            {/* <ul className="dark:text-jacarta-400 flex flex-wrap space-x-4 text-sm">
               <li>
                 <Link href="/tarms">
                   <a className="hover:text-accent dark:hover:text-white">
@@ -107,7 +107,7 @@ const footer = () => {
                   </a>
                 </Link>
               </li>
-            </ul>
+            </ul> */}
           </div>
         </div>
       </footer>
