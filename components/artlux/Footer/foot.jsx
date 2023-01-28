@@ -44,16 +44,16 @@ const foot = () => {
                 <h3>About Us</h3>
                 <ul>
                   <li>
-                    <a href="/category/art">Whitepaper</a>
+                    <a target="_blank" rel="noreferrer" href="https://artlux.gitbook.io/artlux-whitepaper/">Whitepaper</a>
                   </li>
                   <li>
-                    <a href="/category/collectibles">Tokenomics</a>
+                    <a target="_blank" rel="noreferrer" href="https://artlux.gitbook.io/artlux-whitepaper/the-artlux-token-atx/artlux-token-atx-tokenomics">Tokenomics</a>
                   </li>
                   <li>
-                    <a href="/category/domain-names">DOXX KYC</a>
+                    <a href="">DOXX KYC</a>
                   </li>
                   <li>
-                    <a href="/category/art">Audit</a>
+                    <a target="_blank" rel="noreferrer" href="https://github.com/cyberscope-io/audits/blob/main/2-atx/audit.pdf">Audit</a>
                   </li>
                 </ul>
               </div>
@@ -63,13 +63,13 @@ const foot = () => {
                 <h3>Products</h3>
                 <ul>
                   <li>
-                    <a href="#">Lottery</a>
+                    <a target="_blank" rel="noreferrer" href="https://www.lottery.artlux.io/">Lottery</a>
                   </li>
                   <li>
-                    <a href="#">NFT aggregator</a>
+                    <a target="_blank" rel="noreferrer" href="https://aggregator.artlux.io/">NFT aggregator</a>
                   </li>
                   <li>
-                    <a href="#">NFT Marketplace (beta)</a>
+                    <a target="_blank" rel="noreferrer" href="https://www.nft.artlux.io/">NFT Marketplace (beta)</a>
                   </li>
                 </ul>
               </div>
